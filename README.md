@@ -51,21 +51,18 @@ I build services where ML components are treated as first-class parts of the arc
 ---
 
 ## Selected Projects
-
-- **restaurant-digital-service-platform**  
-  Digital restaurant & café management system with QR-based menus, staff-managed ordering, real-time tracking, and customer-driven music voting.  
+ 
+- **[restaurant-digital-service-platform](https://github.com/SMutaf/restaurant-digital-service-platform)**
+  Digital restaurant & café management system with QR-based menus, staff-managed ordering, real-time tracking, and customer-driven music voting.
   → Focus: business-critical workflows, modular architecture, real-time state handling
-
-- **x-bot**  
-  AI-powered system that tracks critical global events and Turkey-relevant news in real time using an event-driven pipeline.  
+- **[x-bot](https://github.com/SMutaf/x-bot)**
+  AI-powered system that tracks critical global events and Turkey-relevant news in real time using an event-driven pipeline.
   → Focus: data ingestion, filtering, event processing, real-time delivery
-
-- **trend-sentinel** *(Private)*  
-  Real-time stock trend detection system combining Python-based data collection with a .NET backend for processing and signal generation.  
+- **trend-sentinel** *(Private)*
+  Real-time stock trend detection system combining Python-based data collection with a .NET backend for processing and signal generation.
   → Focus: data pipelines, backtesting, AI-assisted decision logic
-
-- **phishingguard-url-detection**  
-  Browser-based Chrome extension providing real-time phishing detection using a hybrid ML.NET and rule-based engine.  
+- **[phishingguard-url-detection](https://github.com/SMutaf/phishingguard-url-detection)**
+  Browser-based Chrome extension providing real-time phishing detection using a hybrid ML.NET and rule-based engine.
   → Focus: real-time analysis, ML integration, security logic
 
 ---
