@@ -52,9 +52,9 @@ I build services where ML components are treated as first-class parts of the arc
 
 ## Selected Projects
  
-- **[restaurant-digital-service-platform](https://github.com/SMutaf/restaurant-digital-service-platform)**
-  Digital restaurant & café management system with QR-based menus, staff-managed ordering, real-time tracking, and customer-driven music voting.
-  → Focus: business-critical workflows, modular architecture, real-time state handling
+- **[turkish-plate-reader](https://github.com/SMutaf/turkish-plate-reader)**
+  GPU inference service that detects vehicles, locates their plates and reads them, split into a FastAPI server holding the models and a thin, model-free camera client.
+  → Focus: service boundaries, JSON contract design, stateful tracking, testable core
 - **[x-bot](https://github.com/SMutaf/x-bot)**
   AI-powered system that tracks critical global events and Turkey-relevant news in real time using an event-driven pipeline.
   → Focus: data ingestion, filtering, event processing, real-time delivery
