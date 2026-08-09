@@ -14,9 +14,17 @@ I approach backend development as **system design**: how components communicate,
 
 ---
 
+<a href="https://github.com/SMutaf"><img src="https://github-widgetbox.vercel.app/api/skills?languages=csharp,cpp,go,java,python,javascript&databases=postgresql,redis&frameworks=react,dotnetcore,dotnet&tools=git,docker&software=linux&includeNames=true&theme=darkmode" width="560" /></a>
+
 <div align="center">
 
-<a href="https://github.com/SMutaf"><img src="https://github-widgetbox.vercel.app/api/skills?languages=csharp,cpp,go,java,python,javascript&databases=postgresql,redis&frameworks=react,dotnetcore,dotnet&tools=git,docker&software=linux&includeNames=true&theme=darkmode" width="560" /></a>
+**Architecture & Practices**
+
+[![Microservices](https://img.shields.io/badge/Microservices-ff016e?style=flat&logo=docker&logoColor=white)](https://github.com/SMutaf/turkish-plate-reader)
+[![Event-Driven](https://img.shields.io/badge/Event--Driven%20(Kafka)-ff016e?style=flat&logo=apachekafka&logoColor=white)](https://github.com/SMutaf/x-bot)
+[![REST APIs](https://img.shields.io/badge/REST%20APIs-ff016e?style=flat&logo=swagger&logoColor=white)](https://github.com/SMutaf/turkish-plate-reader)
+[![Clean / Onion](https://img.shields.io/badge/Clean%20%2F%20Onion-ff016e?style=flat&logo=dotnet&logoColor=white)](https://github.com/SMutaf)
+[![Real-Time Pipelines](https://img.shields.io/badge/Real--Time%20Pipelines-ff016e?style=flat&logo=redis&logoColor=white)](https://github.com/SMutaf/x-bot)
 
 </div>
 
