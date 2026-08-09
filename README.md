@@ -1,74 +1,64 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║         AHMET SAFA MUTAF  ·  Backend Developer           ║
-║         Distributed Systems  ·  Real-Time Data           ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-safa-mutaf-158851246)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mutaf/)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Ahmet%20Safa%20Mutaf&fontSize=40&animation=twinkling&desc=Backend%20Developer%20·%20Distributed%20Systems%20·%20Real-Time%20Data&descSize=16&fontAlignY=38&descAlignY=58)](https://github.com/SMutaf)
 
 </div>
 
----
-
 ## About
 
-I focus on building backend systems that solve real problems — whether it's a distributed data pipeline, an ERP module handling business-critical processes, or an AI-integrated service making sense of live data.
-I approach backend development as system design: how components communicate, how data flows, and how systems remain maintainable as they grow.
+I build backend systems that solve real problems — distributed data pipelines, ERP modules handling business-critical processes, and AI-integrated services that make sense of live data.
 
----
-
-## Stack
-
-| Layer | Technologies |
-|---|---|
-| **Primary** | C# / .NET |
-| **Secondary** | Go · Java |
-| **Data** | PostgreSQL · Redis |
-| **Architecture** | Microservices · Event-Driven · REST APIs · Clean/Onion |
-| **AI** | ML.NET · FastAPI |
-| **Other** | JavaScript · HTML/CSS · React · Unity |
-
----
-
-## What I Focus On
-
-**Clean Code & Architecture**
-SOLID principles, layered architecture, and clear service boundaries matter to me. I try to write code that actually makes sense a month later.
-
-**Distributed & Real-Time Systems**
-I enjoy working on systems where data needs to move between services reliably — whether processed instantly or in batches. I've built backtesting workflows and experimented with event-driven pipelines.
-
-**ERP & CRM System Development**
-I've contributed to ERP and CRM development using .NET Core, applying modular design and layered architecture. I understand how business processes translate into backend systems — domain separation, multi-module communication, and maintainability at scale.
-
-**AI-Integrated Microservices**
-I build services where ML components are treated as first-class parts of the architecture, not afterthoughts.
-
----
-
-## Selected Projects
- 
-- **[turkish-plate-reader](https://github.com/SMutaf/turkish-plate-reader)**
-  GPU inference service that detects vehicles, locates their plates and reads them, split into a FastAPI server holding the models and a thin, model-free camera client.
-  → Focus: service boundaries, JSON contract design, stateful tracking, testable core
-- **[x-bot](https://github.com/SMutaf/x-bot)**
-  AI-powered system that tracks critical global events and Turkey-relevant news in real time using an event-driven pipeline.
-  → Focus: data ingestion, filtering, event processing, real-time delivery
-- **trend-sentinel** *(Private)*
-  Real-time stock trend detection system combining Python-based data collection with a .NET backend for processing and signal generation.
-  → Focus: data pipelines, backtesting, AI-assisted decision logic
-- **[phishingguard-url-detection](https://github.com/SMutaf/phishingguard-url-detection)**
-  Browser-based Chrome extension providing real-time phishing detection using a hybrid ML.NET and rule-based engine.
-  → Focus: real-time analysis, ML integration, security logic
+I approach backend development as **system design**: how components communicate, how data flows, and how systems stay maintainable as they grow.
 
 ---
 
 <div align="center">
 
-*Computer Engineering graduate · Backend Developer focused on data-driven and business-critical systems · Open to junior backend roles*
+[![](https://github-widgetbox.vercel.app/api/skills?languages=csharp,cpp,go,java,python,javascript&databases=postgresql,redis&frameworks=react,dotnetcore,dotnet&tools=git,docker&software=linux&includeNames=true&theme=darkmode)](https://github.com/SMutaf)
+
+</div>
+
+---
+
+## Selected Projects
+
+### [turkish-plate-reader](https://github.com/SMutaf/turkish-plate-reader)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+GPU inference service that detects vehicles, locates plates and reads them — split into a FastAPI server holding the models and a thin, model-free camera client.
+> Service boundaries · JSON contract design · stateful tracking · testable core
+
+### [x-bot](https://github.com/SMutaf/x-bot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-ff016e?style=flat&logo=apachekafka&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
+
+AI-powered system tracking critical global events and Turkey-relevant news in real time via an event-driven pipeline.
+> Data ingestion · filtering · event processing · real-time delivery
+
+### trend-sentinel *(Private)*
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Real-time stock trend detection combining Python-based data collection with a .NET backend for processing and signal generation.
+> Data pipelines · backtesting · AI-assisted decision logic
+
+### [phishingguard-url-detection](https://github.com/SMutaf/phishingguard-url-detection)
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)
+
+Chrome extension for real-time phishing detection using a hybrid ML.NET and rule-based engine.
+> Real-time analysis · ML integration · security logic
+
+---
+
+<div align="center">
+
+*Computer Engineering graduate · Backend Developer focused on data-driven and business-critical systems · **Open to junior backend roles***
 
 </div>
