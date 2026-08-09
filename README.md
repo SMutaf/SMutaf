@@ -4,6 +4,8 @@
 
 </div>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SMutaf&data=repositories,stars,commits&theme=darkmode)](https://github.com/SMutaf)
+
 ## About
 
 I build backend systems that solve real problems — distributed data pipelines, ERP modules handling business-critical processes, and AI-integrated services that make sense of live data.
@@ -14,7 +16,7 @@ I approach backend development as **system design**: how components communicate,
 
 <div align="center">
 
-[![](https://github-widgetbox.vercel.app/api/skills?languages=csharp,cpp,go,java,python,javascript&databases=postgresql,redis&frameworks=react,dotnetcore,dotnet&tools=git,docker&software=linux&includeNames=true&theme=darkmode)](https://github.com/SMutaf)
+<a href="https://github.com/SMutaf"><img src="https://github-widgetbox.vercel.app/api/skills?languages=csharp,cpp,go,java,python,javascript&databases=postgresql,redis&frameworks=react,dotnetcore,dotnet&tools=git,docker&software=linux&includeNames=true&theme=darkmode" width="560" /></a>
 
 </div>
 
